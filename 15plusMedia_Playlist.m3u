@@ -91,11 +91,11 @@ http://node-16.zeno.fm:80/futmgqz5g2zuv
 #EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita",Радио Afrodita HQ (Zeno)
 https://node-22.zeno.fm/5uhhxx7vgs8uv
 #EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_Dubl2",AFRODITA_Dubl_+2
-http://stream.zeno.fm/4zfyw9w9nf9uv
+http://s0.radioheart.ru:8000/RadioAfrodita_h2
 #EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_Dubl4",AFRODITA_Dubl_+4
-http://stream.zeno.fm/mevw3bx9nf9uv
+http://s0.radioheart.ru:8000/RadioAfrodita_h4
 #EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_Dubl7",AFRODITA_Dubl_+7
-http://stream.zeno.fm/s5v7rcx9nf9uv
+http://s0.radioheart.ru:8000/RadioAfrodita_h7
  
 # REGIONAL RADIO ADDITIONAL STREAMS
 #EXTGRP: Радио - регион/дополнительный
