@@ -53,13 +53,13 @@ http://s0.radioheart.ru:8000/RadioLirika
 #EXTINF:-1 channel-id="public-r004" tvg-logo="https://sun9-44.userapi.com/Y4HfhBEyVwxappassnnRoSZNIrOw7jFs2iQSBg/8kXxHdcHirA.jpg" tvg-name="Seawave",Радио Морская волна
 http://s0.radioheart.ru:8000/RadioMorskayaVolna
 #EXTINF:-1 channel-id="public-r005" tvg-logo="https://sun1-90.userapi.com/180Z1uFVQegDzLYyXuO1Im3vRaoYnLcKRT-nlQ/BgBuybC41hA.jpg" tvg-name="DL Radio",Радио DL Radio
-http://icecast144-xtvservice.ru:8000/dlradio.mp3
+http://s0.radioheart.ru:8000/dl-radio
 #EXTINF:-1 channel-id="public-r006" tvg-logo="https://sun9-69.userapi.com/wbCLsQ9xJgXY00MuQ-kT0pUx8FzjnUbCP6k21g/MJhQROt-t_Q.jpg" tvg-name="FLEX FM",Радио FLEX FM
 http://s0.radioheart.ru:8000/flexfm
 #EXTINF:-1 channel-id="public-r007" tvg-logo="https://sun9-65.userapi.com/IKf_i9189yq3DZgjAL_RUy8R7r_5bW8DHj4OQQ/2pA7Y6-aDnA.jpg" tvg-name="FLEX FM Meme",Радио FLEX FM Meme
-http://localhost:8000
+http://stream.zeno.fm/xwsnvbq7t18uv
 #EXTINF:-1 channel-id="public-r008" tvg-logo="https://sun9-21.userapi.com/13Xl74l9kRcGYukJjSaTcV13Rp1qrN_ZPOz14Q/czeRLYXRLhU.jpg" tvg-name="Reload FM",Радио Reload FM
-http://localhost:8000
+http://s0.radioheart.ru:8000/reload
 #EXTINF:-1 channel-id="public-r009" tvg-logo="https://sun9-49.userapi.com/hnBvAKTrRaSSa4zY2qQnPXwL5zGQ9DgZf5m3Xg/Q5oFx8QT80o.jpg" tvg-name="RadioMariya",Радио Мария
 http://s0.radioheart.ru:8000/RadioMariya
  
@@ -85,7 +85,7 @@ http://listen7.myradio24.com:9000/56149
 
 # PUBLIC RADIO ADDITIONAL STREAMS
 #EXTGRP: Радио - общий/дополнительный
-
+# ADRODITA
 #EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita",Радио Afrodita (Zeno)
 http://node-16.zeno.fm:80/futmgqz5g2zuv
 #EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita",Радио Afrodita HQ (Zeno)
@@ -96,7 +96,10 @@ http://s0.radioheart.ru:8000/RadioAfrodita_h2
 http://s0.radioheart.ru:8000/RadioAfrodita_h4
 #EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_Dubl7",AFRODITA_Dubl_+7
 http://s0.radioheart.ru:8000/RadioAfrodita_h7
- 
+
+# FLEX FM MEME
+#EXTINF:-1 channel-id="public-r007" tvg-logo="https://sun9-65.userapi.com/IKf_i9189yq3DZgjAL_RUy8R7r_5bW8DHj4OQQ/2pA7Y6-aDnA.jpg" tvg-name="FLEX FM Meme",Радио FLEX FM Meme (64 kbps)
+http://stream.zeno.fm/yfepheq7t18uv
 # REGIONAL RADIO ADDITIONAL STREAMS
 #EXTGRP: Радио - регион/дополнительный
  
