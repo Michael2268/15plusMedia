@@ -106,7 +106,11 @@ http://stream.zeno.fm/yfepheq7t18uv
 # AFRODITA
 #EXTINF:-1 channel-id="region-r001-alt" tvg-logo="https://sun9-79.userapi.com/_GNd913iuu3y_n6byru7dHWrNHpOpRMiWr-48Q/o7dN8VgSnhY.jpg" tvg-name="Radio 61 Region",Afrodita / Радио 61 регион (Ростов-на-Дону)
 http://s0.radioheart.ru:8000/61region
- 
+
+#SEAWAVE
+#EXTINF:-1 channel-id="public-r004" tvg-logo="https://sun9-44.userapi.com/Y4HfhBEyVwxappassnnRoSZNIrOw7jFs2iQSBg/8kXxHdcHirA.jpg" tvg-name="Seawave",Радио Морская волна
+https://listen7.myradio24.com/39338
+
 # 15PLUS MUSIC RADIO
 #EXTINF:-1 channel-id="region-r002" tvg-logo="https://sun9-48.userapi.com/D_bAX0MkicmfjNYueXwJ1flTQ6-2bRjNvAA47A/mbssKX7y0pI.jpg" tvg-name="Radio М Krasnoyarsk",15+ MR / Радио М (Красноярск)
 http://listen4.myradio24.com:9000/35875
