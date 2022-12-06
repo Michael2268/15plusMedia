@@ -1,0 +1,195 @@
+#EXTM3U tvg-logo="https://sun9-77.userapi.com/ASZAbu8mb0PA1RemsF4kQUaEiI17Cl8l3TjRvw/2892807RPfo.jpg" numwzero="1" url-scrlogo="https://sun9-51.userapi.com/676i0Le0jv1sfhFH_tvNhu87vEeSjtqhfcdQhA/WD1Jq5qJQOg.jpg"
+
+
+
+- DL Ural (DL Екатеринбург) (с июля 2022)
+
+- Afrodita Урал (Радио Afrodita Екатеринбург) (с 26.12.2020)
+- Радио 61 регион (Радио Afrodita Миллерово) (с 25.08.2021)
+- Afrodita Сибирь (Радио Afrodita Красноярск) (с 01.09.2022)
+- Радио М (15+ Music Radio Красноярск) (с 22.01.2021)
+- Морская волна Кемерово (с 31.12.2020)
+- Морская волна Москва (с 10.09.2022)
+▶ DL Радио (с 13.01.2021)
+▶ Радио Классика (с 31.12.2022 закрывается)
+▶ Радио Мария (с 30.04.2022)
+▶ Родное радио (с 01.12.2022)
+# INFO RESERVED
+ 
+#EXTINF:-1 channel-id="service"
+#
+ 
+# DIGITAL PUBLIC TV
+#EXTGRP: ТВ - общий/цифровой/основной
+ 
+#EXTINF:-1 channel-id="public-d-c001" tvg-logo="https://sun9-51.userapi.com/oTFjfZZSHqdHXAFwZfwQgGiR1jdvURg517dEug/wKByuve-ovo.jpg" tvg-name="15plusTV",Пятнадцать плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://hls.goodgame.ru/hls/141306.m3u8
+#EXTINF:-1 channel-id="public-d-c002" tvg-logo="https://sun9-18.userapi.com/BbNnQU01ugTLFBCdOgBO9g4rIUPdz0R0YgB3cQ/n8S6Wxy2u0Y.jpg" tvg-name="15plus_Music",15+ Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://hls.goodgame.ru/hls/159709.m3u8
+#EXTINF:-1 channel-id="public-d-c003" tvg-logo="https://sun9-61.userapi.com/i2xalSTYMitI4wLX_kZf_gslxrM3ryQz64RB3w/ZYJcAHVzKuw.jpg" tvg-name="DL",DL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://hls.goodgame.ru/hls/178728.m3u8
+#EXTINF:-1 channel-id="public-d-c004" tvg-logo="https://sun9-70.userapi.com/_37H8qTXnuCZcAbYl5KEh1nS-yiEiMhVq4rpLA/2hdTzTl6kYw.jpg" tvg-name="XD",XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://hls.goodgame.ru/hls/182992.m3u8
+#EXTINF:-1 channel-id="public-d-c005" tvg-logo="https://sun9-11.userapi.com/clKaFrHP1Ik9bCEC7EbX9t1PoH0yRtBLsNcPVQ/TGnf6A1-7Wg.jpg" tvg-name="TeleVision 4",TeleVision 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.goodgame.ru/hls/177660.m3u8
+ 
+# DIGITAL REGIONAL TV
+#EXTGRP: ТВ - регион/цифровой/основной
+
+#EXTINF:-1 channel-id="public-d-c040" tvg-logo="https://sun9-12.userapi.com/c855236/v855236581/13a64f/du3ma_ar0Ds.jpg" tvg-name="15plusTV_MSK",15+ Москва / МСТВ (Москва)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://hls.goodgame.ru/hls/141306.m3u8
+#EXTINF:-1 channel-id="region-d-c006" tvg-logo="https://sun9-59.userapi.com/eWmmpqbdAkxjYUbpdz_P9HAVVFhLymk7v2jRoA/RthgZZ_uV8w.jpg" tvg-name="15plusTV_Biysk",15+ / 7 канал (Бийск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://hls.goodgame.ru/hls/179377.m3u8
+#EXTINF:-1 channel-id="region-d-c007" tvg-logo="https://sun9-17.userapi.com/hAyKAKdD1U9TIczMBzsl3id1g4VfbmGjaimkyg/7RgECa-0K2Y.jpg" tvg-name="15plusTV_South",15+ Южный Регион / Южный Регион Плюс (Ростов-на-Дону)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.goodgame.ru/hls/182376.m3u8
+#EXTINF:-1 channel-id="region-d-c008" tvg-logo="https://sun9-4.userapi.com/JQwGwX6YnFJZshgYThfo-5FRZVGdcGxv-0LIKg/ld7cgdihFJE.jpg" tvg-name="15plusTV_Ural",15+ Урал / 9 канал (Екатеринбург)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.goodgame.ru/hls/178938.m3u8
+#EXTINF:-1 channel-id="region-a-c032" aspect-ratio=4:3 tvg-logo="https://sun9-88.userapi.com/LAokPy76dxdPafRCI5-hgoe_shLiymly0dmrnQ/_ZJFjTIMd7Y.jpg" tvg-name="15plusTV_YKT",15+ Якутск / НТК-32 канал
+ 
+# ANALOGUE PUBLIC TV
+#EXTGRP: ТВ - общий/аналоговый/основной
+ 
+#EXTINF:-1 channel-id="public-d-c040" tvg-logo="https://sun9-12.userapi.com/c855236/v855236581/13a64f/du3ma_ar0Ds.jpg" tvg-name="15plusTV_MSK",15plusTV MSK
+http://cdn77.vgs.ink/hls/15plusTVMSK.m3u8
+#EXTINF:-1 channel-id="public-a-c010" aspect-ratio=4:3 tvg-logo="https://sun9-61.userapi.com/i2xalSTYMitI4wLX_kZf_gslxrM3ryQz64RB3w/ZYJcAHVzKuw.jpg" tvg-name="DL_A",DL
+http://cdn77.vgs.ink/hls/dl_A.m3u8
+ 
+# PUBLIC RADIO
+#EXTGRP: Радио - общий/основной
+ 
+#EXTINF:-1 channel-id="public-r001" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita",Радио Afrodita
+http://s0.radioheart.ru:8000/RadioAfrodita
+#EXTINF:-1 channel-id="public-r003" tvg-logo="https://sun9-11.userapi.com/tBdEq-8TxAlR_QAzK9hlCGL6KDTieJqtcnnT3A/VXA4cfJkyGE.jpg" tvg-name="15plus_MR",Радио 15+ Music
+http://s0.radioheart.ru:8000/15plusMR
+#EXTINF:-1 channel-id="public-r004" tvg-logo="https://sun9-79.userapi.com/10vfupgN2GtBb6xjdOxYIG07RaD80ra7ZAV5dg/9IcIaCjp2CU.jpg" tvg-name="Lirika",Радио Лирика
+http://s0.radioheart.ru:8000/RadioLirika
+#EXTINF:-1 channel-id="public-r005" tvg-logo="http://player.dl-channel.ru/images/radio/seawave.png" tvg-name="Seawave",Радио Морская волна
+http://s0.radioheart.ru:8000/RadioMorskayaVolna
+#EXTINF:-1 channel-id="public-r006" tvg-logo="https://sun1-90.userapi.com/180Z1uFVQegDzLYyXuO1Im3vRaoYnLcKRT-nlQ/BgBuybC41hA.jpg" tvg-name="DL Radio",Радио DL Radio
+http://icecast144-xtvservice.ru:8000/dlradio.mp3
+#EXTINF:-1 channel-id="public-r007" tvg-logo="http://player.dl-channel.ru/images/radio/flexfm.png" tvg-name="FLEX FM",Радио FLEX FM
+http://s0.radioheart.ru:8000/flexfm
+#EXTINF:-1 channel-id="public-r008" tvg-logo="https://sun9-65.userapi.com/IKf_i9189yq3DZgjAL_RUy8R7r_5bW8DHj4OQQ/2pA7Y6-aDnA.jpg" tvg-name="FLEX FM Meme",Радио FLEX FM Meme
+?
+#EXTINF:-1 channel-id="public-r009" tvg-logo="https://sun9-21.userapi.com/13Xl74l9kRcGYukJjSaTcV13Rp1qrN_ZPOz14Q/czeRLYXRLhU.jpg" tvg-name="Reload FM",Радио Reload FM
+?
+#EXTINF:-1 channel-id="public-r010" tvg-logo="https://sun9-21.userapi.com/13Xl74l9kRcGYukJjSaTcV13Rp1qrN_ZPOz14Q/czeRLYXRLhU.jpg" tvg-name="RadioMariya",Радио Мария
+http://s0.radioheart.ru:8000/RadioMariya
+ 
+# REGIONAL RADIO
+#EXTGRP: Радио - регион/основной
+ 
+# AFRODITA
+#EXTINF:-1 channel-id="region-r014" tvg-logo="https://sun9-79.userapi.com/_GNd913iuu3y_n6byru7dHWrNHpOpRMiWr-48Q/o7dN8VgSnhY.jpg" tvg-name="Radio 61 Region",Afrodita / Радио 61 регион (Ростов-на-Дону)
+http://icecast144-xtvservice.ru:8000/Radio61region.mp3
+#EXTINF:-1 channel-id="region-r015" tvg-logo="https://sun9-73.userapi.com/gNa9A1RMtAJebiGdllePyzuzjpDhe0LxJCvOYw/6e6WqT4mCzM.jpg" tvg-name="Afrodita",Радио Afrodita Урал (Екатеринбург)
+http://stream.dl-channel.ru:8000/afrodita_ekb
+#EXTINF:-1 channel-id="region-r016" tvg-logo="https://sun9-48.userapi.com/D_bAX0MkicmfjNYueXwJ1flTQ6-2bRjNvAA47A/mbssKX7y0pI.jpg" tvg-name="Radio М Krasnoyarsk",Afrodita / Радио М (Красноярск)
+http://s0.radioheart.ru:8000/radiomkras_afrodita
+ 
+# MOLODEZHNOE
+#EXTINF:-1 channel-id="region-r017" tvg-logo="https://sun9-7.userapi.com/hZnZlw3ewZ55nZ9rJpZGpQxTaRWHXela9XGK0A/9uPjJe2S_Dg.jpg" tvg-name="MolodezhnoeRadio", Морская волна / Молодёжное (Кемерово)
+http://icecast144-xtvservice.ru:8000/molodezhnoeradio.mp3
+ 
+# RADIO M
+#EXTINF:-1 channel-id="region-r018" tvg-logo="https://sun9-48.userapi.com/D_bAX0MkicmfjNYueXwJ1flTQ6-2bRjNvAA47A/mbssKX7y0pI.jpg" tvg-name="Radio М Krasnoyarsk",Радио М (Красноярск)
+http://icecast144-xtvservice.ru:8000/RadioM.mp3
+ 
+# URAL-INFORM
+#EXTINF:-1 channel-id="region-r019" tvg-logo="https://sun9-23.userapi.com/wfNIVPXaNbRTITHtwMdGFp1VfxS7iuw1MeX0lg/BCeasnmSnl8.jpg" tvg-name="Ural-Inform FM", Урал-Информ FM (Екатеринбург)
+http://icecast144-xtvservice.ru:8000/UralInformFM.mp3
+ 
+# PUBLIC RADIO ADDITIONAL STREAMS
+#EXTGRP: Радио - общий/дополнительный
+ 
+#EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_AAC",Радио Afrodita LQ (AAC)
+http://icecast144-xtvservice.ru:8000/radioafrodita.aac
+#EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_BAK",Радио Afrodita BAK
+http://icecast144-xtvservice.ru:8000/radioafrodita_bak
+#EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita",Радио Afrodita (Zeno)
+http://node-16.zeno.fm:80/futmgqz5g2zuv
+#EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita",Радио Afrodita HQ (Zeno)
+https://node-22.zeno.fm/5uhhxx7vgs8uv
+#EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_Dubl2",AFRODITA_Dubl_+2
+#http://stream.zeno.fm/4zfyw9w9nf9uv
+#EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_Dubl4",AFRODITA_Dubl_+4
+#http://stream.zeno.fm/mevw3bx9nf9uv
+#EXTINF:-1 channel-id="public-r001-alt" tvg-logo="https://sun9-56.userapi.com/IkykLg9uAjcyPt66GhNN0nNJXCUFk-sIFHUG7A/-90GRK0FtY8.jpg" tvg-name="Afrodita_Dubl7",AFRODITA_Dubl_+7
+#http://stream.zeno.fm/s5v7rcx9nf9uv
+ 
+#EXTINF:-1 channel-id="public-r002-alt" tvg-logo="http://xtvplay.pp.ua/public/common/logos/afrodita_retro.png" tvg-name="Afrodita Retro_AAC",Радио Afrodita Retro / AAC
+http://icecast144-xtvservice.ru:8000/radioafrodita_retro.aac
+ 
+#EXTINF:-1 channel-id="public-r003-alt" tvg-logo="https://sun9-11.userapi.com/tBdEq-8TxAlR_QAzK9hlCGL6KDTieJqtcnnT3A/VXA4cfJkyGE.jpg" tvg-name="15plus_MR_HQ",Радио 15+ Music / HQ
+http://icecast144-xtvservice.ru:8000/15plusmusicradio_HD.mp3
+#EXTINF:-1 channel-id="public-r003-alt" tvg-logo="https://sun9-11.userapi.com/tBdEq-8TxAlR_QAzK9hlCGL6KDTieJqtcnnT3A/VXA4cfJkyGE.jpg" tvg-name="15plus_MR_AAC",Радио 15+ Music / AAC
+http://icecast144-xtvservice.ru:8000/15plusmusicradio.aac
+ 
+#EXTINF:-1 channel-id="public-r004-alt" tvg-logo="https://sun9-79.userapi.com/10vfupgN2GtBb6xjdOxYIG07RaD80ra7ZAV5dg/9IcIaCjp2CU.jpg" tvg-name="Lirika_HQ",Радио Лирика / HQ
+http://icecast144-xtvservice.ru:8000/radiolyric_HD.mp3
+#EXTINF:-1 channel-id="public-r004-alt" tvg-logo="https://sun9-79.userapi.com/10vfupgN2GtBb6xjdOxYIG07RaD80ra7ZAV5dg/9IcIaCjp2CU.jpg" tvg-name="Lirika_AAC",Радио Лирика / AAC
+http://icecast144-xtvservice.ru:8000/radiolyric.aac
+ 
+#EXTINF:-1 channel-id="public-r051-alt" tvg-logo="http://player.dl-channel.ru/images/radio/seawave.png" tvg-name="Seawave_HQ",Радио Морская волна / HQ
+http://icecast144-xtvservice.ru:8000/seawave_HD.mp3
+#EXTINF:-1 channel-id="public-r005-alt" tvg-logo="http://player.dl-channel.ru/images/radio/seawave.png" tvg-name="Seawave_AAC",Радио Морская волна / AAC
+http://icecast144-xtvservice.ru:8000/seawave.aac
+#EXTINF:-1 channel-id="public-r005-alt" tvg-logo="http://player.dl-channel.ru/images/radio/seawave.png" tvg-name="Seawave_BAK",Радио Морская волна / BAK
+http://icecast144-xtvservice.ru:8000/seawave_bak
+ 
+#EXTINF:-1 channel-id="public-r006-alt" tvg-logo="https://sun1-90.userapi.com/180Z1uFVQegDzLYyXuO1Im3vRaoYnLcKRT-nlQ/BgBuybC41hA.jpg" tvg-name="DL Radio_AAC",Радио DL Radio / AAC
+http://icecast144-xtvservice.ru:8000/dlradio.aac
+#EXTINF:-1 channel-id="public-r006-alt" tvg-logo="https://sun1-90.userapi.com/180Z1uFVQegDzLYyXuO1Im3vRaoYnLcKRT-nlQ/BgBuybC41hA.jpg" tvg-name="RealMedia_-_DL_Radio",Радио DL Radio / RealMedia
+http://icecast144-xtvservice.ru:8000/dlradio.rm
+ 
+#EXTINF:-1 channel-id="public-r007-alt" tvg-logo="http://player.dl-channel.ru/images/radio/flexfm.png" tvg-name="FLEX FM_HQ",Радио FLEX FM / HQ
+http://icecast144-xtvservice.ru:8000/flexfm_HD.mp3
+#EXTINF:-1 channel-id="public-r007-alt" tvg-logo="http://player.dl-channel.ru/images/radio/flexfm.png" tvg-name="FLEX FM_AAC",Радио FLEX FM / AAC
+http://icecast144-xtvservice.ru:8000/flexfm.aac
+ 
+#EXTINF:-1 channel-id="public-r008-alt" tvg-logo="https://sun9-65.userapi.com/IKf_i9189yq3DZgjAL_RUy8R7r_5bW8DHj4OQQ/2pA7Y6-aDnA.jpg" tvg-name="FLEX FM Meme_AAC",Радио FLEX FM Meme / AAC
+http://icecast144-xtvservice.ru:8000/flexfm_meme.aac
+ 
+#EXTINF:-1 channel-id="public-r009-alt" tvg-logo="https://sun9-21.userapi.com/13Xl74l9kRcGYukJjSaTcV13Rp1qrN_ZPOz14Q/czeRLYXRLhU.jpg" tvg-name="Reload FM_HQ",Радио Reload FM / HQ
+http://icecast144-xtvservice.ru:8000/reloadfm_HD.mp3
+#EXTINF:-1 channel-id="public-r009-alt" tvg-logo="https://sun9-21.userapi.com/13Xl74l9kRcGYukJjSaTcV13Rp1qrN_ZPOz14Q/czeRLYXRLhU.jpg" tvg-name="Reload FM_AAC",Радио Reload FM / AAC
+http://icecast144-xtvservice.ru:8000/reloadfm.aac
+ 
+#EXTINF:-1 channel-id="public-r010-alt" tvg-logo="https://sun9-78.userapi.com/CI0tKBJOHLBSbg8wdTvKG6pRMAsOtMnKEW3DUQ/5639jPFjK6I.jpg" tvg-name="Klassika_HQ", Радио Классика / HQ
+http://icecast144-xtvservice.ru:8000/radioclassica_HD.mp3
+#EXTINF:-1 channel-id="public-r010-alt" tvg-logo="https://sun9-78.userapi.com/CI0tKBJOHLBSbg8wdTvKG6pRMAsOtMnKEW3DUQ/5639jPFjK6I.jpg" tvg-name="Klassika_AAC", Радио Классика / AAC
+http://icecast144-xtvservice.ru:8000/radioclassica.aac
+ 
+#EXTINF:-1 channel-id="public-r011-alt" tvg-logo="https://sun9-79.userapi.com/iaVqMZM0LsAC3cjGHqeDLfLWIwBpphZww-IeYw/yiQV6qz-Bvw.jpg" tvg-name="StarRadio_AAC",STAR FM / BAK
+https://s1.vgs.ink:8000/starfm_bak.mp3
+ 
+# REGIONAL RADIO ADDITIONAL STREAMS
+#EXTGRP: Радио - регион/дополнительный
+ 
+# MOLODEZHNOE
+#EXTINF:-1 channel-id="public-r017-alt" tvg-logo="https://sun9-7.userapi.com/hZnZlw3ewZ55nZ9rJpZGpQxTaRWHXela9XGK0A/9uPjJe2S_Dg.jpg" tvg-name="MolodezhnoeRadio_HQ",Радио Молодёжное HQ
+http://icecast144-xtvservice.ru:8000/molodezhnoeradio_HD.mp3
+#EXTINF:-1 channel-id="public-r017-alt" tvg-logo="https://sun9-7.userapi.com/hZnZlw3ewZ55nZ9rJpZGpQxTaRWHXela9XGK0A/9uPjJe2S_Dg.jpg" tvg-name="MolodezhnoeRadio_AAC",Радио Молодёжное (AAC)
+http://icecast144-xtvservice.ru:8000/molodezhnoeradio.aac
+ 
+# AFRODITA REGION
+#EXTINF:-1 channel-id="public-r013-alt" tvg-logo="https://sun9-56.userapi.com/roKm_NtBT4EcTAjoNHmXabQCPx4m3vNS8zC6Dg/j666Xfmgc00.jpg" tvg-name="Radio Biysk",Радио Бийск (AAC)
+http://icecast144-xtvservice.ru:8000/RadioBiysk.aac
+#EXTINF:-1 channel-id="public-r013-alt" tvg-logo="https://sun9-48.userapi.com/D_bAX0MkicmfjNYueXwJ1flTQ6-2bRjNvAA47A/mbssKX7y0pI.jpg" tvg-name="Radio М Krasnoyarsk",Радио М (Красноярск)
+http://s0.radioheart.ru:8000/radiomkras_afrodita
+ 
+# URAL-INFORM
+#EXTINF:-1 channel-id="public-r019-alt" tvg-logo="https://sun9-23.userapi.com/wfNIVPXaNbRTITHtwMdGFp1VfxS7iuw1MeX0lg/BCeasnmSnl8.jpg" tvg-name="Ural-Inform_AAC", Урал-Информ FM (AAC)
+http://stream.dl-channel.ru:8000/UralInformFM.aac
+ 
+#ENDLIST
+ 
