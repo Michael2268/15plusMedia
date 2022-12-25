@@ -79,8 +79,12 @@ http://listen7.myradio24.com:9000/25527
 #EXTINF:-1 channel-id="region-r014" tvg-logo="https://sun9-44.userapi.com/Y4HfhBEyVwxappassnnRoSZNIrOw7jFs2iQSBg/8kXxHdcHirA.jpg" tvg-name="Seawave Moscow",Морская волна (Москва)
 http://s0.radioheart.ru:8000/MorskayaVolna_msk
 
+# FLEXFM
+#EXTINF:-1 channel-id="region-r015" tvg-logo="https://sun9-69.userapi.com/wbCLsQ9xJgXY00MuQ-kT0pUx8FzjnUbCP6k21g/MJhQROt-t_Q.jpg" tvg-name="FLEX FM",Радио FLEX FM (Москва)
+http://s0.radioheart.ru:8000/FLEXFM_MSK
+
 # 15PLUS MUSIC RADIO
-#EXTINF:-1 channel-id="region-r015" tvg-logo="https://sun9-48.userapi.com/D_bAX0MkicmfjNYueXwJ1flTQ6-2bRjNvAA47A/mbssKX7y0pI.jpg" tvg-name="Radio М Krasnoyarsk",15+ MR / Радио М (Красноярск)
+#EXTINF:-1 channel-id="region-r016" tvg-logo="https://sun9-48.userapi.com/D_bAX0MkicmfjNYueXwJ1flTQ6-2bRjNvAA47A/mbssKX7y0pI.jpg" tvg-name="Radio М Krasnoyarsk",15+ MR / Радио М (Красноярск)
 http://listen7.myradio24.com:9000/56149
 
 # PUBLIC RADIO ADDITIONAL STREAMS
