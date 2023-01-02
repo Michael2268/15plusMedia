@@ -14,30 +14,27 @@ http://hls.goodgame.ru/hls/159709.m3u8
 #EXTINF:-1 channel-id="public-d-c002" tvg-logo="https://sun9-61.userapi.com/i2xalSTYMitI4wLX_kZf_gslxrM3ryQz64RB3w/ZYJcAHVzKuw.jpg" tvg-name="DL",DL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru/hls/178728.m3u8
-#EXTINF:-1 channel-id="public-d-c003" tvg-logo="https://sun9-70.userapi.com/_37H8qTXnuCZcAbYl5KEh1nS-yiEiMhVq4rpLA/2hdTzTl6kYw.jpg" tvg-name="XD",XD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://hls.goodgame.ru/hls/182992.m3u8
-#EXTINF:-1 channel-id="public-d-c004" tvg-logo="https://sun9-60.userapi.com/uw-Vt8Z3dqTrZoBjaTX3Lv_cx2FtJ8ZVYtqKZg/0K8jL6kW2YM.jpg" tvg-name="TV1",TV1
+#EXTINF:-1 channel-id="public-d-c003" tvg-logo="https://sun9-60.userapi.com/uw-Vt8Z3dqTrZoBjaTX3Lv_cx2FtJ8ZVYtqKZg/0K8jL6kW2YM.jpg" tvg-name="TV1",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.goodgame.ru/hls/177660.m3u8
  
 # DIGITAL REGIONAL TV
 #EXTGRP: ТВ - регион/цифровой/основной
 
-#EXTINF:-1 channel-id="public-d-c040" tvg-logo="https://sun9-12.userapi.com/c855236/v855236581/13a64f/du3ma_ar0Ds.jpg" tvg-name="15plusTV_MSK",DL / МСТВ (Москва)
+#EXTINF:-1 channel-id="public-d-c004" tvg-logo="https://sun9-12.userapi.com/c855236/v855236581/13a64f/du3ma_ar0Ds.jpg" tvg-name="15plusTV_MSK",DL / МСТВ (Москва)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru/hls/141306.m3u8
-#EXTINF:-1 channel-id="region-d-c006" tvg-logo="https://sun9-59.userapi.com/eWmmpqbdAkxjYUbpdz_P9HAVVFhLymk7v2jRoA/RthgZZ_uV8w.jpg" tvg-name="15plusTV_Biysk",7 канал (Бийск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#http://hls.goodgame.ru/hls/179377.m3u8
-#EXTINF:-1 channel-id="region-d-c007" tvg-logo="https://sun9-40.userapi.com/qfAo7Q_6t9psR7Jzcu7aJmCsEHU950UmivkVsQ/IzeSWZij0hk.jpg" tvg-name="15plusTV_South",DL Ростов / Южный Регион Плюс (Ростов-на-Дону)
+#EXTINF:-1 channel-id="region-d-c005" tvg-logo="https://sun9-40.userapi.com/qfAo7Q_6t9psR7Jzcu7aJmCsEHU950UmivkVsQ/IzeSWZij0hk.jpg" tvg-name="15plusTV_South",DL Ростов / Южный Регион Плюс (Ростов-на-Дону)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.goodgame.ru/hls/182376.m3u8
-#EXTINF:-1 channel-id="region-d-c008" tvg-logo="https://sun9-4.userapi.com/JQwGwX6YnFJZshgYThfo-5FRZVGdcGxv-0LIKg/ld7cgdihFJE.jpg" tvg-name="15plusTV_Ural",DL Урал / 9 канал (Екатеринбург)
+#EXTINF:-1 channel-id="region-d-c006" tvg-logo="https://sun9-4.userapi.com/JQwGwX6YnFJZshgYThfo-5FRZVGdcGxv-0LIKg/ld7cgdihFJE.jpg" tvg-name="15plusTV_Ural",DL Урал / 9 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.goodgame.ru/hls/178938.m3u8
-#EXTINF:-1 channel-id="region-a-c032" aspect-ratio=4:3 tvg-logo="https://sun9-88.userapi.com/LAokPy76dxdPafRCI5-hgoe_shLiymly0dmrnQ/_ZJFjTIMd7Y.jpg" tvg-name="15plusTV_YKT",DL Якутск / НТК-32 канал
+#EXTINF:-1 channel-id="region-a-c007" aspect-ratio=4:3 tvg-logo="https://sun9-88.userapi.com/LAokPy76dxdPafRCI5-hgoe_shLiymly0dmrnQ/_ZJFjTIMd7Y.jpg" tvg-name="15plusTV_YKT",DL Якутск / НТК-32 канал
 https://15plusmg.live/hls/NTK_A/index.m3u8
+#EXTINF:-1 channel-id="region-d-c008" tvg-logo="https://sun9-25.userapi.com/FodgqvKvMV9_bsns_P5P2vW4jB-41e4hNbO0mA/JZ-nd4PWdGI.jpg" tvg-name="15plusTV_Ural",61 регион (Ростов-на-Дону)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://hls.goodgame.ru/hls/191204.m3u8
 
 # PUBLIC TV ADDITIONAL STREAMS
 #EXTGRP: ТВ - общий/дополнительный
