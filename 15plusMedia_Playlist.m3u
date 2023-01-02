@@ -8,38 +8,43 @@
 # DIGITAL PUBLIC TV
 #EXTGRP: ТВ - общий/цифровой/основной
  
-#EXTINF:-1 channel-id="public-d-c001" tvg-logo="https://sun9-51.userapi.com/oTFjfZZSHqdHXAFwZfwQgGiR1jdvURg517dEug/wKByuve-ovo.jpg" tvg-name="15plusTV",Пятнадцать плюс
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://hls.goodgame.ru/hls/141306.m3u8
-#EXTINF:-1 channel-id="public-d-c002" tvg-logo="https://sun9-18.userapi.com/BbNnQU01ugTLFBCdOgBO9g4rIUPdz0R0YgB3cQ/n8S6Wxy2u0Y.jpg" tvg-name="15plus_Music",15+ Music
+#EXTINF:-1 channel-id="public-d-c001" tvg-logo="https://sun9-18.userapi.com/BbNnQU01ugTLFBCdOgBO9g4rIUPdz0R0YgB3cQ/n8S6Wxy2u0Y.jpg" tvg-name="15plus_Music",15+ Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru/hls/159709.m3u8
-#EXTINF:-1 channel-id="public-d-c003" tvg-logo="https://sun9-61.userapi.com/i2xalSTYMitI4wLX_kZf_gslxrM3ryQz64RB3w/ZYJcAHVzKuw.jpg" tvg-name="DL",DL
+#EXTINF:-1 channel-id="public-d-c002" tvg-logo="https://sun9-61.userapi.com/i2xalSTYMitI4wLX_kZf_gslxrM3ryQz64RB3w/ZYJcAHVzKuw.jpg" tvg-name="DL",DL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru/hls/178728.m3u8
-#EXTINF:-1 channel-id="public-d-c004" tvg-logo="https://sun9-70.userapi.com/_37H8qTXnuCZcAbYl5KEh1nS-yiEiMhVq4rpLA/2hdTzTl6kYw.jpg" tvg-name="XD",XD
+#EXTINF:-1 channel-id="public-d-c003" tvg-logo="https://sun9-70.userapi.com/_37H8qTXnuCZcAbYl5KEh1nS-yiEiMhVq4rpLA/2hdTzTl6kYw.jpg" tvg-name="XD",XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru/hls/182992.m3u8
-#EXTINF:-1 channel-id="public-d-c005" tvg-logo="https://sun9-11.userapi.com/clKaFrHP1Ik9bCEC7EbX9t1PoH0yRtBLsNcPVQ/TGnf6A1-7Wg.jpg" tvg-name="TeleVision 4",TeleVision 4
+#EXTINF:-1 channel-id="public-d-c004" tvg-logo="https://sun9-60.userapi.com/uw-Vt8Z3dqTrZoBjaTX3Lv_cx2FtJ8ZVYtqKZg/0K8jL6kW2YM.jpg" tvg-name="TV1",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.goodgame.ru/hls/177660.m3u8
  
 # DIGITAL REGIONAL TV
 #EXTGRP: ТВ - регион/цифровой/основной
 
-#EXTINF:-1 channel-id="public-d-c040" tvg-logo="https://sun9-12.userapi.com/c855236/v855236581/13a64f/du3ma_ar0Ds.jpg" tvg-name="15plusTV_MSK",15+ Москва / МСТВ (Москва)
+#EXTINF:-1 channel-id="public-d-c040" tvg-logo="https://sun9-12.userapi.com/c855236/v855236581/13a64f/du3ma_ar0Ds.jpg" tvg-name="15plusTV_MSK",DL / МСТВ (Москва)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru/hls/141306.m3u8
-#EXTINF:-1 channel-id="region-d-c006" tvg-logo="https://sun9-59.userapi.com/eWmmpqbdAkxjYUbpdz_P9HAVVFhLymk7v2jRoA/RthgZZ_uV8w.jpg" tvg-name="15plusTV_Biysk",15+ / 7 канал (Бийск)
+#EXTINF:-1 channel-id="region-d-c006" tvg-logo="https://sun9-59.userapi.com/eWmmpqbdAkxjYUbpdz_P9HAVVFhLymk7v2jRoA/RthgZZ_uV8w.jpg" tvg-name="15plusTV_Biysk",7 канал (Бийск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://hls.goodgame.ru/hls/179377.m3u8
-#EXTINF:-1 channel-id="region-d-c007" tvg-logo="https://sun9-17.userapi.com/hAyKAKdD1U9TIczMBzsl3id1g4VfbmGjaimkyg/7RgECa-0K2Y.jpg" tvg-name="15plusTV_South",15+ Южный Регион / Южный Регион Плюс (Ростов-на-Дону)
+#http://hls.goodgame.ru/hls/179377.m3u8
+#EXTINF:-1 channel-id="region-d-c007" tvg-logo="https://sun9-40.userapi.com/qfAo7Q_6t9psR7Jzcu7aJmCsEHU950UmivkVsQ/IzeSWZij0hk.jpg" tvg-name="15plusTV_South",DL Ростов / Южный Регион Плюс (Ростов-на-Дону)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.goodgame.ru/hls/182376.m3u8
-#EXTINF:-1 channel-id="region-d-c008" tvg-logo="https://sun9-4.userapi.com/JQwGwX6YnFJZshgYThfo-5FRZVGdcGxv-0LIKg/ld7cgdihFJE.jpg" tvg-name="15plusTV_Ural",15+ Урал / 9 канал (Екатеринбург)
+#EXTINF:-1 channel-id="region-d-c008" tvg-logo="https://sun9-4.userapi.com/JQwGwX6YnFJZshgYThfo-5FRZVGdcGxv-0LIKg/ld7cgdihFJE.jpg" tvg-name="15plusTV_Ural",DL Урал / 9 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.goodgame.ru/hls/178938.m3u8
-#EXTINF:-1 channel-id="region-a-c032" aspect-ratio=4:3 tvg-logo="https://sun9-88.userapi.com/LAokPy76dxdPafRCI5-hgoe_shLiymly0dmrnQ/_ZJFjTIMd7Y.jpg" tvg-name="15plusTV_YKT",15+ Якутск / НТК-32 канал
+#EXTINF:-1 channel-id="region-a-c032" aspect-ratio=4:3 tvg-logo="https://sun9-88.userapi.com/LAokPy76dxdPafRCI5-hgoe_shLiymly0dmrnQ/_ZJFjTIMd7Y.jpg" tvg-name="15plusTV_YKT",DL Якутск / НТК-32 канал
+https://15plusmg.live/hls/NTK_A/index.m3u8
+
+# PUBLIC TV ADDITIONAL STREAMS
+#EXTGRP: ТВ - общий/дополнительный
+
+#EXTINF:-1 channel-id="public-d-c002-alt" tvg-logo="https://sun9-61.userapi.com/i2xalSTYMitI4wLX_kZf_gslxrM3ryQz64RB3w/ZYJcAHVzKuw.jpg" tvg-name="DL",DL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.goodgame.ru/hls/173878.m3u8
 
 # PUBLIC RADIO
 #EXTGRP: Радио - общий/основной
@@ -120,4 +125,3 @@ https://listen7.myradio24.com/39338
 http://listen4.myradio24.com:9000/35875
  
 #ENDLIST
- 
